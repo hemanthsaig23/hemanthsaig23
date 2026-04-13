@@ -2,7 +2,7 @@
 
 ### Data Scientist & AI/ML Engineer | Python | AWS | NLP | Deep Learning
 
-📧 hemanthsaigogineni@gmail.com | 📞 203-592-8440 | 📍 USA | 🟢 OPT Status – Available from July 2025
+📧 hemanthsai.g23@gmail.com | 📞 8324292083 | 📍 USA | 🟢 OPT Status – Available from July 2025
 
 ---
 
@@ -36,7 +36,6 @@ Data Scientist with 5 years of experience building machine learning models, cond
 
 ### 1. 🏦 Credit Risk Prediction System *(Master's Capstone)*
 **Technologies:** `Python` `XGBoost` `AWS SageMaker` `SHAP` `Flask` `REST API` `Scikit-learn` `Pandas` `NumPy`
-
 - Developed an end-to-end machine learning pipeline for credit risk assessment
 - Implemented feature engineering, hyperparameter tuning, and model interpretability using **SHAP**
 - Achieved **92% accuracy** and deployed the model as a **REST API** for real-time predictions on **AWS SageMaker**
@@ -45,7 +44,6 @@ Data Scientist with 5 years of experience building machine learning models, cond
 
 ### 2. 💬 Customer Sentiment Analysis Using Deep Learning
 **Technologies:** `Python` `BERT` `PyTorch` `Plotly` `Transfer Learning` `NLP` `Transformers` `Pandas`
-
 - Built an NLP model using **BERT** and **PyTorch** analyzing 100K+ customer reviews for sentiment classification
 - Implemented transfer learning achieving **94% accuracy**
 - Created an interactive dashboard using **Plotly** visualizing sentiment trends and topic modeling results
@@ -54,7 +52,6 @@ Data Scientist with 5 years of experience building machine learning models, cond
 
 ### 3. 📈 Sales Forecasting Using Time Series Models
 **Technologies:** `Python` `LSTM` `ARIMA` `Prophet` `Apache Airflow` `TensorFlow` `Pandas` `NumPy`
-
 - Developed time series forecasting models using **LSTM**, **ARIMA**, and **Prophet** for retail sales prediction
 - Compared multiple approaches achieving **88% forecast accuracy**
 - Implemented an automated retraining pipeline using **Apache Airflow**
@@ -108,7 +105,6 @@ Data Scientist with 5 years of experience building machine learning models, cond
 ---
 
 ## 📊 GitHub Stats
-
 ![Hemanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemanthsaig23&show_icons=true&theme=tokyonight)
 
 ---

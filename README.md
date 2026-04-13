@@ -2,7 +2,7 @@
 
 ### Data Scientist & AI/ML Engineer | Python | AWS | NLP | Deep Learning
 
-📧 hemanthsai.g23@gmail.com | 📞 8324292083 | 📍 USA | 🟢 OPT Status – Available from July 2025
+📧 hemanthsai.g23@gmail.com | 📞 8324292083 | 📍 USA | 🟢 OPT Status 
 
 ---
 
